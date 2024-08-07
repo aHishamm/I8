@@ -1,0 +1,8 @@
+openai
+langchain
+gradio
+ai71
+pytesseract
+matplotlib
+langchain-community
+duckduckgo-search
