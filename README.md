@@ -1,0 +1,4 @@
+# LabLab Project: I8 Calorie Counter 
+Studies show that the majority of users stop using calorie-counting apps after a short period of time. This could be attributed to the lengthy process of logging food items and their specific portions. I8 aims to solve this problem. I8 is an app designed to make calorie counting much easier. It accepts user input as plain text or a restaurant invoice, then searches calorie databases with LangChain to provide a solid and accurate benchmark. Finally, I8 calculates the caloric intake based on the user's portions and the acquired benchmarks. Additionally, I8 provides users with a graph of the consumed food items and their corresponding calories.
+
+I8 is an app that eases the calorie counting process by taking food intake from users as text or receipt. 
